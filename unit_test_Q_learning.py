@@ -8,7 +8,7 @@ Note that the agent needs to start off believing that cooperate is better.
 
 ENVIRONMENT_SWAPPING = False
 
-n_steps = 50000
+n_steps = 3000
 n_learners = 5
 eps = .1
 
